@@ -1,0 +1,31 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content {
+  h1 {
+   color: #ff0000;
+ }
+}
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #616161;
+    background-image: linear-gradient(360deg, #000000, #ffb85a);
+}
+
+.main-content img {
+    max-width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius:50%;
+}
+
+.main-content {
+    padding: 2rem 1rem;
+    font-size: 1rem;
+    background-color: #080813;
+}
