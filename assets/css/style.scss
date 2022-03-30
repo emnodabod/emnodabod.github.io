@@ -27,5 +27,30 @@
 .main-content {
     padding: 2rem 1rem;
     font-size: 1rem;
-    background-color: #080813;
+    background-color: #030201;
+}
+
+.site-footer {
+    padding-top: 2rem;
+    margin-top: 2rem;
+    border-top: solid 1px #ffffff;
+}
+
+.site-footer {
+    font-size: 0.5rem;
+    text-align: center;
+}
+
+.links {
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 12px;
+    border: 1px solid white;
+    border-width: 1px;
+    width: 240px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
 }
