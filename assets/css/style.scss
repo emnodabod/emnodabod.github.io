@@ -61,21 +61,26 @@ element.style {
     padding-top: 0.5rem;
 }
 
+
 button {
-  position: relative;
-  outline: none;
-  text-decoration: none;
-  border-radius: 50px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  cursor: pointer;
-  text-transform: uppercase;
-  height: 60px;
-  width: 210px;
-  opacity: 1;
-  background-color: #ffffff;
-  border: 1px solid rgba(22, 76, 167, 0.6);
+    position: relative;
+    outline: none;
+    text-decoration: none;
+    border-radius: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    height: 20px;
+    width: 210px;
+    opacity: 1;
+    background-color: #ffffff00;
+    border: 0px solid rgba(22,76,167,0.6);
+    margin: auto;
+}
+
+button {
   span {
       color: rgba(22, 76, 167, 1);
       font-size: 12px;
