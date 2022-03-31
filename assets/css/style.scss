@@ -3,6 +3,8 @@
 
 @import "{{ site.theme }}";
 
+html,body{min-height:100%;}
+
 body {
   color: #fff;
   font-family: 'Open Sans', sans-serif;
