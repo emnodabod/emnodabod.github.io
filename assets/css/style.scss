@@ -12,7 +12,6 @@ body {
 
 .main-content {
   max-width = 100%;
-  
   padding: 0rem 0rem;
   h1 {
    color: #ff0000;
@@ -38,9 +37,10 @@ body {
 }
 
 .main-content {
-    padding: 1rem 1rem;
+    padding: 0rem 0rem;
     font-size: 1rem;
     background-color: #030201;
+    max-width: 100%;
   }
 
 .site-footer {
